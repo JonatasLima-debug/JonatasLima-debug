@@ -54,5 +54,5 @@ Pipeline completo de ML para classificação de risco de diabetes utilizando o d
 
 ## Contato
 
-[![LinkedIn](www.linkedin.com/in/jonatas-oliveira-b738053aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-oliveira-b738053aa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jl04278512@gmail.com)
