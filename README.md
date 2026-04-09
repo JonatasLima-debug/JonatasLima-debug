@@ -45,7 +45,7 @@ Pipeline completo de ML para classificação de risco de diabetes utilizando o d
 
 ---
 
-## Estatísticashttps://github.com/JonatasLima-debug/diabetes-ml.git
+## Estatísticas
 
 ![Jonatas's GitHub Stats](https://github.com/JonatasLima-debug/diabetes-ml.git)
 
